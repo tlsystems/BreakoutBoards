@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name FRETS)(type KiCad)(uri "D:/Strange Quarks/FRETS - FIRST Robotics Evaluation and Tracking System/FRETS.pretty")(options "")(descr ""))
+  (lib (name BreakoutBoards)(type KiCad)(uri "D:/Downloads/Electronic Projects/Breakout Boards/BreakoutBoards.pretty")(options "")(descr ""))
+)
