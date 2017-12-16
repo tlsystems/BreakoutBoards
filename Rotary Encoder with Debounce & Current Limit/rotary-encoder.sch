@@ -37,8 +37,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Rotary Encoder Breakout"
-Date "2017-11-25"
-Rev "0.3"
+Date "2017-12-15"
+Rev "0.4"
 Comp "TL Systems"
 Comment1 "Current Limit for RGB LEDs"
 Comment2 "Debounce for A&B Phases and PB Switch"

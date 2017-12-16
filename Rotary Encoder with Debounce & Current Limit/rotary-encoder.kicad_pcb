@@ -3,9 +3,9 @@
   (general
     (links 46)
     (no_connects 0)
-    (area 104.856599 91.067399 132.946601 114.585401)
+    (area 104.856599 90.638199 132.946601 117.1646)
     (thickness 1.6)
-    (drawings 24)
+    (drawings 25)
     (tracks 165)
     (zones 0)
     (modules 20)
@@ -13,6 +13,13 @@
   )
 
   (page A4)
+  (title_block
+    (title "Rotary Encoder w/Debounce & LEDs Breakout Board")
+    (date 2017-12-15)
+    (rev v0.4)
+    (company "TL Systems")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -974,6 +981,9 @@
     )
   )
 
+  (gr_text "Encoder Breakout, \nv0.4, TL Systems" (at 123.2831 103.3979 90) (layer B.Cu)
+    (effects (font (size 1.016 1.016) (thickness 0.1524)) (justify mirror))
+  )
   (gr_text Gnd (at 119.0286 94.7619 180) (layer B.SilkS) (tstamp 5A19BFDF)
     (effects (font (size 1.016 1.016) (thickness 0.1524)) (justify mirror))
   )
