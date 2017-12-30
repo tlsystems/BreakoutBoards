@@ -1,0 +1,2999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:/Apps/ioProto16/ioProto16/ioProto16.sch</source>
+    <date>10/21/2017 9:07:31 PM</date>
+    <tool>Eeschema 4.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>ioProto16</title>
+        <company>T L Systems</company>
+        <rev>2</rev>
+        <date>15 Jul 2014</date>
+        <source>ioProto16.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW00">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A701BF</tstamp>
+    </comp>
+    <comp ref="SW01">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A701DB</tstamp>
+    </comp>
+    <comp ref="SW02">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A701E1</tstamp>
+    </comp>
+    <comp ref="SW03">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A701E7</tstamp>
+    </comp>
+    <comp ref="SW04">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A701ED</tstamp>
+    </comp>
+    <comp ref="SW05">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A701F3</tstamp>
+    </comp>
+    <comp ref="SW06">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A701F9</tstamp>
+    </comp>
+    <comp ref="SW07">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A701FF</tstamp>
+    </comp>
+    <comp ref="SW08">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A7020F</tstamp>
+    </comp>
+    <comp ref="SW09">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A70215</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A7021B</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A70221</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A70227</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A7022D</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A70233</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>Switch_SPDT_CenterOff</value>
+      <footprint>ioProto16:SW_Micro_SPDT</footprint>
+      <libsource lib="ioProto16" part="On-Off-(On)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A70239</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>74HC165</value>
+      <footprint>ioProto16:SSOP-16_4.4x5.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="74xx165"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A70241</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>74HC165</value>
+      <footprint>ioProto16:SSOP-16_4.4x5.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="74xx165"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A70258</tstamp>
+    </comp>
+    <comp ref="RR2">
+      <value>10K</value>
+      <footprint>ioProto16:SIP9_Housing</footprint>
+      <libsource lib="ioProto16" part="RR8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A71052</tstamp>
+    </comp>
+    <comp ref="RR1">
+      <value>10K</value>
+      <footprint>ioProto16:SIP9_Housing</footprint>
+      <libsource lib="ioProto16" part="RR8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A71064</tstamp>
+    </comp>
+    <comp ref="LED00">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A739D9</tstamp>
+    </comp>
+    <comp ref="LED01">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A73A19</tstamp>
+    </comp>
+    <comp ref="LED02">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A73A1F</tstamp>
+    </comp>
+    <comp ref="LED03">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A73A25</tstamp>
+    </comp>
+    <comp ref="LED04">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A73A2B</tstamp>
+    </comp>
+    <comp ref="LED05">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A73A31</tstamp>
+    </comp>
+    <comp ref="LED06">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A73A37</tstamp>
+    </comp>
+    <comp ref="LED07">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A73A3D</tstamp>
+    </comp>
+    <comp ref="LED08">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A75CD1</tstamp>
+    </comp>
+    <comp ref="LED09">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A75CD7</tstamp>
+    </comp>
+    <comp ref="LED10">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A75CDD</tstamp>
+    </comp>
+    <comp ref="LED11">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A75CE3</tstamp>
+    </comp>
+    <comp ref="LED12">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A75CE9</tstamp>
+    </comp>
+    <comp ref="LED13">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A75CEF</tstamp>
+    </comp>
+    <comp ref="LED14">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A75CF5</tstamp>
+    </comp>
+    <comp ref="LED15">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_D3.0mm</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53A75CFB</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AE341A</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AE3433</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AE344A</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AE345F</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>74HC165</value>
+      <footprint>ioProto16:SSOP-16_4.4x5.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="74xx165"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AF45CD</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>74HC165</value>
+      <footprint>ioProto16:SSOP-16_4.4x5.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="74xx165"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AF45D3</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53B793E1</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>4.7K</value>
+      <footprint>ioProto16:R_0805_HandSoldering</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56727CB2</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>4.7K</value>
+      <footprint>ioProto16:R_0805_HandSoldering</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56727D79</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>330R</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56762614</tstamp>
+    </comp>
+    <comp ref="LED19">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_0805</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56779E11</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>330R</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56779EB6</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56780FFB</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>TLC5916</value>
+      <footprint>ioProto16:SSOP-16_4.4x5.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="TLC5916"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56853156</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>TLC5916</value>
+      <footprint>ioProto16:SSOP-16_4.4x5.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="TLC5916"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5685322B</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>Connector_2x5_2mm</value>
+      <footprint>ioProto16:Pin_Header_Straight_2x05_2.0mm</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56878C0F</tstamp>
+    </comp>
+    <comp ref="P10">
+      <value>CONN_02X03</value>
+      <footprint>ioProto16:Pin_Header_Straight_2x03</footprint>
+      <libsource lib="ioProto16" part="CONN_02X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5688149E</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>0.01uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="ioProto16" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AE39A0</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>0.01uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="ioProto16" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AE39B2</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>568AEB70</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>568AF09F</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>SwitchingDiode</value>
+      <footprint>ioProto16:D_SOD-123</footprint>
+      <libsource lib="device" part="D_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>568B796C</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>SwitchingDiode</value>
+      <footprint>ioProto16:D_SOD-123</footprint>
+      <libsource lib="device" part="D_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>568B8E10</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>SwitchingDiode</value>
+      <footprint>ioProto16:D_SOD-123</footprint>
+      <libsource lib="device" part="D_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>568B918C</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>0.01uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="ioProto16" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>568AF24B</tstamp>
+    </comp>
+    <comp ref="E1">
+      <value>Quadrature Encoder</value>
+      <footprint>ioProto16:ALPS_Encoder</footprint>
+      <libsource lib="ioProto16" part="ENCDR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B4A701</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>22uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BADA22</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BADB45</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB3A4D</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB62B1</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB6350</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB6356</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB646B</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB658A</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB6590</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB6596</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB659C</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB65A2</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB65A8</tstamp>
+    </comp>
+    <comp ref="LED21">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_0805</footprint>
+      <libsource lib="ioProto16" part="Ls"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB9E50</tstamp>
+    </comp>
+    <comp ref="LED20">
+      <value>LED_GREEN</value>
+      <footprint>ioProto16:LED_0805</footprint>
+      <libsource lib="ioProto16" part="Ls"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BBA3D7</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BD9CFE</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BC8421</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>ESD Protection Diode</value>
+      <footprint>ioProto16:SOT-143B</footprint>
+      <libsource lib="ioProto16" part="ESD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56DC0412</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>30K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56DC6D71</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>47K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56DC774F</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>Connector_2x5</value>
+      <footprint>ioProto16:Pin_Header_Angled_2x05_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56DF162B</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>Connector_2x5</value>
+      <footprint>ioProto16:Pin_Header_Angled_2x05_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E0622F</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>Connector_2x5</value>
+      <footprint>ioProto16:Pin_Header_Angled_2x05_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E1F07B</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>Connector_2x5</value>
+      <footprint>ioProto16:Pin_Header_Angled_2x05_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E2ADBC</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>74HC14</value>
+      <footprint>ioProto16:SSOP-14_5.3x6.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="74HCT14"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56DC22F8</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>74HC595</value>
+      <footprint>ioProto16:SSOP-16_4.4x5.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="74xx595"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E262F0</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>74HC595</value>
+      <footprint>ioProto16:SSOP-16_4.4x5.2mm_Pitch0.65mm</footprint>
+      <libsource lib="ioProto16" part="74xx595"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E267ED</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>2.2K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="Rs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E20089</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>2.2K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="Rs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E2008F</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF1CA8</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF3FDF</tstamp>
+    </comp>
+    <comp ref="MH13">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E31DC0</tstamp>
+    </comp>
+    <comp ref="MH12">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E31DC6</tstamp>
+    </comp>
+    <comp ref="MH10">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E31E54</tstamp>
+    </comp>
+    <comp ref="MH11">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E31E5A</tstamp>
+    </comp>
+    <comp ref="BAT1">
+      <value>3Vbat</value>
+      <footprint>ioProto16:BATT_Holder_16mm_MPM-BH600</footprint>
+      <libsource lib="ioProto16" part="3Vbat"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EAB912</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>DS3231</value>
+      <footprint>ioProto16:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="ioProto16" part="DS3231"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EBCD0F</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="ioProto16" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AF724B</tstamp>
+    </comp>
+    <comp ref="PB1">
+      <value>PushButton_SPST</value>
+      <footprint>ioProto16:SW_PUSH_6mm_h4.3mm</footprint>
+      <libsource lib="ioProto16" part="PB-PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EE39C4</tstamp>
+    </comp>
+    <comp ref="PB3">
+      <value>PushButton_SPST</value>
+      <footprint>ioProto16:SW_PUSH_6mm_h4.3mm</footprint>
+      <libsource lib="ioProto16" part="PB-PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EE6408</tstamp>
+    </comp>
+    <comp ref="JB3">
+      <value>JumperBlock_1x2</value>
+      <footprint>ioProto16:Jumper_Block_1x02_2.54mm</footprint>
+      <libsource lib="ioProto16" part="JumperBlock_2-Pin"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F056A6</tstamp>
+    </comp>
+    <comp ref="JB1">
+      <value>JumperBlock_1x3</value>
+      <footprint>ioProto16:Jumper_Block_1x03_2.54mm</footprint>
+      <libsource lib="ioProto16" part="JB3-Power"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31E90</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>74LAUP1GU04</value>
+      <footprint>ioProto16:TSSOP5</footprint>
+      <libsource lib="ioProto16" part="74LAUP1GU04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F1146C</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>Connector_2x10</value>
+      <footprint>ioProto16:Pin_Header_Angled_2x10_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_02X10"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F657A8</tstamp>
+    </comp>
+    <comp ref="LED16">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_0805</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F74427</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>330R</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F7442D</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>330R</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F5C5B4</tstamp>
+    </comp>
+    <comp ref="PB2">
+      <value>PushButton_SPST</value>
+      <footprint>ioProto16:SW_PUSH_6mm_h4.3mm</footprint>
+      <libsource lib="ioProto16" part="PB-PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F5C5C6</tstamp>
+    </comp>
+    <comp ref="MH4">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F8887D</tstamp>
+    </comp>
+    <comp ref="MH1">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F88889</tstamp>
+    </comp>
+    <comp ref="MH2">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F8888F</tstamp>
+    </comp>
+    <comp ref="MH5">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F889B3</tstamp>
+    </comp>
+    <comp ref="MH3">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F889BF</tstamp>
+    </comp>
+    <comp ref="MH7">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F889C5</tstamp>
+    </comp>
+    <comp ref="MH6">
+      <value>mounting_hole_4-40</value>
+      <footprint>ioProto16:MountingHole_4-40</footprint>
+      <libsource lib="ioProto16" part="mounting_hole_4-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F6A479</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>0R</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56FCB0CE</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>BLM18PG221SN1D</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16-cache" part="INDUCTOR-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57004B44</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>0R</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5701CA76</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56FD9338</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>4.7uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56FD93F4</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>10uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56FD955E</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>1K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="Rs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB94E6</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>1K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="Rs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56BB93A5</tstamp>
+    </comp>
+    <comp ref="LED18">
+      <value>LED_GREEN</value>
+      <footprint>ioProto16:LED_0805</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F5C5AE</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57D3BA05</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>ioProto16:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="ioProto16" part="TestPoint"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594AB57C</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>ioProto16:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="ioProto16" part="TestPoint"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594AC317</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>ioProto16:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="ioProto16" part="TestPoint"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594AC3C6</tstamp>
+    </comp>
+    <comp ref="REG1">
+      <value>reg19a</value>
+      <footprint>ioProto16:reg19a</footprint>
+      <libsource lib="ioProto16" part="reg19a"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B3303</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>47L16_EEPROM</value>
+      <footprint>ioProto16:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="ioProto16" part="47L16_EEPROM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59860E9B</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>0.01uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="ioProto16" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5984F3B9</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>0.01uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="ioProto16" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5984F3BF</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598506A5</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598506AB</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>SwitchingDiode</value>
+      <footprint>ioProto16:D_SOD-123</footprint>
+      <libsource lib="device" part="D_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598506B1</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>SwitchingDiode</value>
+      <footprint>ioProto16:D_SOD-123</footprint>
+      <libsource lib="device" part="D_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598506B7</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598516AD</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598516B3</tstamp>
+    </comp>
+    <comp ref="REG2">
+      <value>RGLTR</value>
+      <footprint>ioProto16:SOT-223</footprint>
+      <libsource lib="ioProto16" part="RGLTR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5988539A</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>10uF</value>
+      <footprint>ioProto16:C_1206</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598690CA</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5988A17E</tstamp>
+    </comp>
+    <comp ref="LED17">
+      <value>LED_RED</value>
+      <footprint>ioProto16:LED_0805</footprint>
+      <libsource lib="ioProto16-cache" part="LED-RESCUE-protoIO.16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5986EE69</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>330R</value>
+      <footprint>ioProto16:R_0805</footprint>
+      <libsource lib="ioProto16" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59876F76</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>10uF</value>
+      <footprint>ioProto16:C_0805</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59894B56</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>0R</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598A3EDE</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>0R</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598AC959</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>0R</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598ACA38</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>0R</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598B9614</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>0R</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598C410F</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>0R</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598C7B46</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>SAM_D21G</value>
+      <footprint>ioProto16:TQFP-48_7x7mm_Pitch0.5mm</footprint>
+      <libsource lib="ioProto16" part="SAM_D21G"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598C381B</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>FT232RLSSOP</value>
+      <footprint>ioProto16:SSOP-28_5.3x10.2mm_Pitch0.65mm_Narrow</footprint>
+      <libsource lib="ioProto16" part="FT232RLSSOP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59DAB517</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>0R</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598ACA3E</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>0R</value>
+      <footprint>ioProto16:R_0603</footprint>
+      <libsource lib="ioProto16" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598C4109</tstamp>
+    </comp>
+    <comp ref="DISP1">
+      <value>OLED Display</value>
+      <footprint>ioProto16:Display_Header_1x20</footprint>
+      <libsource lib="ioProto16" part="OLED_DISP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D7B23E</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>TerminalBlock_3-Pos</value>
+      <footprint>ioProto16:TerminalBlock_3pos_2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567940A5</tstamp>
+    </comp>
+    <comp ref="JB2">
+      <value>JumperBlock_1x3</value>
+      <footprint>ioProto16:Jumper_Block_1x03_2.54mm</footprint>
+      <libsource lib="ioProto16" part="JB3-Power"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32023</tstamp>
+    </comp>
+    <comp ref="JB4">
+      <value>JumperBlock_1x2</value>
+      <footprint>ioProto16:Jumper_Block_1x02_2.54mm</footprint>
+      <libsource lib="ioProto16" part="JumperBlock_2-Pin"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5987AA0B</tstamp>
+    </comp>
+    <comp ref="JB5">
+      <value>JumperBlock_2x3</value>
+      <footprint>ioProto16:Jumper_Block_2x03_2.54mm</footprint>
+      <libsource lib="ioProto16" part="JumperBlock_6-Pin"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F0B264</tstamp>
+    </comp>
+    <comp ref="P12">
+      <value>CONN_01X02</value>
+      <footprint>ioProto16:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="ioProto16" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59E6BB5B</tstamp>
+    </comp>
+    <comp ref="P13">
+      <value>CONN_01X01</value>
+      <footprint>ioProto16:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="ioProto16" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59E6D2D8</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>USB_MICRO_AB</value>
+      <footprint>ioProto16:USB_Mirco-B_Molex-105017-0001</footprint>
+      <libsource lib="ioProto16" part="USB_MICRO_AB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59E69593</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>USB_MICRO_AB</value>
+      <footprint>ioProto16:USB_Mirco-B_Molex-105017-0001</footprint>
+      <libsource lib="ioProto16" part="USB_MICRO_AB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59E6CB35</tstamp>
+    </comp>
+    <comp ref="P11">
+      <value>Atmel_SWD</value>
+      <footprint>ioProto16:Pin_Header_Straight_2x05_Pitch1.27mm</footprint>
+      <libsource lib="ioProto16" part="Atmel_SWD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59EFE95D</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ioProto16" part="3Vbat">
+      <footprints>
+        <fp>BAT_CR1216</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">BAT</field>
+        <field name="Value">3Vbat</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="47L16_EEPROM">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">47L16_EEPROM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCAP" type="passive"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="input"/>
+        <pin num="6" name="SCL" type="input"/>
+        <pin num="7" name="HS" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="74HCT14">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HCT14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="output"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="output"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="~" type="output"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="74LAUP1GU04">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LAUP1GU04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="74xx165">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74xx165</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SH/~LD" type="input"/>
+        <pin num="2" name="CLK" type="input"/>
+        <pin num="3" name="E" type="input"/>
+        <pin num="4" name="F" type="input"/>
+        <pin num="5" name="G" type="input"/>
+        <pin num="6" name="H" type="input"/>
+        <pin num="7" name="~QH" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="QH" type="output"/>
+        <pin num="10" name="SER" type="input"/>
+        <pin num="11" name="A" type="input"/>
+        <pin num="12" name="B" type="input"/>
+        <pin num="13" name="C" type="input"/>
+        <pin num="14" name="D" type="input"/>
+        <pin num="15" name="CLK_INH" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="74xx595">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74xx595</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q1" type="output"/>
+        <pin num="2" name="Q2" type="output"/>
+        <pin num="3" name="Q3" type="output"/>
+        <pin num="4" name="Q4" type="output"/>
+        <pin num="5" name="Q5" type="output"/>
+        <pin num="6" name="Q6" type="output"/>
+        <pin num="7" name="Q7" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="Q7S" type="output"/>
+        <pin num="10" name="~MR" type="input"/>
+        <pin num="11" name="SHCP" type="input"/>
+        <pin num="12" name="STCP" type="input"/>
+        <pin num="13" name="~OE" type="input"/>
+        <pin num="14" name="DS" type="input"/>
+        <pin num="15" name="Q0" type="output"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="Atmel_SWD">
+      <description>Connector, double row, 02x05, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X*</fp>
+        <fp>Pin_Header_Angled_2X*</fp>
+        <fp>Socket_Strip_Straight_2X*</fp>
+        <fp>Socket_Strip_Angled_2X*</fp>
+        <fp>IDC_Header_Straight_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Atmel_SWD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="C">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="CONN_01X01">
+      <description>Connector, single row, 01x01, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="CONN_01X02">
+      <description>Connector, single row, 01x02, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X03">
+      <description>Connector, single row, 01x03, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="CONN_02X03">
+      <description>Connector, double row, 02x03, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X*</fp>
+        <fp>Pin_Header_Angled_2X*</fp>
+        <fp>Socket_Strip_Straight_2X*</fp>
+        <fp>Socket_Strip_Angled_2X*</fp>
+        <fp>IDC_Header_Straight_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_02X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X05">
+      <description>Connector, double row, 02x05, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X*</fp>
+        <fp>Pin_Header_Angled_2X*</fp>
+        <fp>Socket_Strip_Straight_2X*</fp>
+        <fp>Socket_Strip_Angled_2X*</fp>
+        <fp>IDC_Header_Straight_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_02X05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X10">
+      <description>Connector, double row, 02x10, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X*</fp>
+        <fp>Pin_Header_Angled_2X*</fp>
+        <fp>Socket_Strip_Straight_2X*</fp>
+        <fp>Socket_Strip_Angled_2X*</fp>
+        <fp>IDC_Header_Straight_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_02X10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP1_Small">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C_Small">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="DS3231">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DS3231</field>
+      </fields>
+      <pins>
+        <pin num="1" name="32kHz" type="power_in"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="SQW" type="output"/>
+        <pin num="4" name="~RST" type="output"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VBAT" type="passive"/>
+        <pin num="7" name="SCL" type="input"/>
+        <pin num="8" name="SDA" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="ENCDR">
+      <fields>
+        <field name="Reference">E</field>
+        <field name="Value">ENCDR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="output"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="A" type="output"/>
+        <pin num="4" name="C" type="power_in"/>
+        <pin num="5" name="B" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="ESD">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ESD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="IO1" type="input"/>
+        <pin num="3" name="IO2" type="input"/>
+        <pin num="4" name="Vcc" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="FT232RLSSOP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FT232RLSSOP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="output"/>
+        <pin num="2" name="DTR" type="output"/>
+        <pin num="3" name="RTS" type="NotConnected"/>
+        <pin num="4" name="VCCIO" type="power_in"/>
+        <pin num="5" name="RXD" type="input"/>
+        <pin num="6" name="RI" type="NotConnected"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="NC" type="NotConnected"/>
+        <pin num="9" name="DSR" type="NotConnected"/>
+        <pin num="10" name="DCD" type="NotConnected"/>
+        <pin num="11" name="CTS" type="NotConnected"/>
+        <pin num="12" name="SLEEP" type="NotConnected"/>
+        <pin num="13" name="TXDEN" type="NotConnected"/>
+        <pin num="14" name="PWREN" type="NotConnected"/>
+        <pin num="15" name="USBDP" type="BiDi"/>
+        <pin num="16" name="USBDM" type="BiDi"/>
+        <pin num="17" name="3V3OUT" type="power_out"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="RESET" type="NotConnected"/>
+        <pin num="20" name="VCC" type="power_in"/>
+        <pin num="21" name="GND" type="power_in"/>
+        <pin num="22" name="RXLED" type="output"/>
+        <pin num="23" name="TXLED" type="output"/>
+        <pin num="24" name="NC" type="NotConnected"/>
+        <pin num="25" name="AGND" type="power_in"/>
+        <pin num="26" name="TEST" type="NotConnected"/>
+        <pin num="27" name="OSCI" type="NotConnected"/>
+        <pin num="28" name="OSCO" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16-cache" part="INDUCTOR-RESCUE-protoIO.16">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR-RESCUE-protoIO.16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="JB3-Power">
+      <fields>
+        <field name="Reference">JB</field>
+        <field name="Value">JB3-Power</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="power_in"/>
+        <pin num="2" name="2" type="power_out"/>
+        <pin num="3" name="3" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="JumperBlock_2-Pin">
+      <fields>
+        <field name="Reference">JB</field>
+        <field name="Value">JumperBlock_2-Pin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="JumperBlock_6-Pin">
+      <fields>
+        <field name="Reference">JB</field>
+        <field name="Value">JumperBlock_6-Pin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16-cache" part="LED-RESCUE-protoIO.16">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-RESCUE-protoIO.16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="Ls">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Ls</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="OLED_DISP">
+      <fields>
+        <field name="Reference">DISP</field>
+        <field name="Value">OLED_DISP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="REGVDD/NC" type="input"/>
+        <pin num="4" name="D/C#" type="input"/>
+        <pin num="5" name="R/W" type="input"/>
+        <pin num="6" name="E" type="input"/>
+        <pin num="7" name="SCLK" type="BiDi"/>
+        <pin num="8" name="SDIN" type="BiDi"/>
+        <pin num="9" name="SDOUT" type="BiDi"/>
+        <pin num="10" name="DB3" type="input"/>
+        <pin num="11" name="DB4" type="input"/>
+        <pin num="12" name="DB5" type="input"/>
+        <pin num="13" name="DB6" type="input"/>
+        <pin num="14" name="DB7" type="input"/>
+        <pin num="15" name="CS#/NC" type="input"/>
+        <pin num="16" name="RST#" type="input"/>
+        <pin num="17" name="BS0/CS#" type="input"/>
+        <pin num="18" name="BS1/NC" type="input"/>
+        <pin num="19" name="BS2/BS1" type="input"/>
+        <pin num="20" name="VSS/BS0" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="On-Off-(On)">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">On-Off-(On)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="PB-PUSH">
+      <fields>
+        <field name="Reference">PB</field>
+        <field name="Value">PB-PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="RGLTR">
+      <fields>
+        <field name="Reference">REG</field>
+        <field name="Value">RGLTR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="3V3" type="passive"/>
+        <pin num="3" name="5V" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="RR8">
+      <fields>
+        <field name="Reference">RR</field>
+        <field name="Value">RR8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="R_Small">
+      <footprints>
+        <fp>Resistor_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="Rs">
+      <footprints>
+        <fp>Resistor_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Rs</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="SAM_D21G">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SAM_D21G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PA-00(AIO-SDA)" type="BiDi"/>
+        <pin num="2" name="PA-01(AIO-SCL)" type="BiDi"/>
+        <pin num="3" name="PA-02(RTC_1Hz)" type="input"/>
+        <pin num="4" name="(IOX-10)PA-03" type="BiDi"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VDDANA" type="power_in"/>
+        <pin num="7" name="PB-08(DiagTx)" type="BiDi"/>
+        <pin num="8" name="PB-09(DiagRx)" type="BiDi"/>
+        <pin num="9" name="(DIO-MOSI)PA-04" type="BiDi"/>
+        <pin num="10" name="(DIO-SCK)PA-05" type="BiDi"/>
+        <pin num="11" name="(DIO-MISO)PA-06" type="BiDi"/>
+        <pin num="12" name="(DIO-Load)PA-07" type="BiDi"/>
+        <pin num="13" name="(DIO-0)PA-08" type="BiDi"/>
+        <pin num="14" name="(DIO-1)PA-09" type="BiDi"/>
+        <pin num="15" name="(DIO-2)PA-10" type="BiDi"/>
+        <pin num="16" name="(DIO-3)PA-11" type="BiDi"/>
+        <pin num="17" name="VDDIO" type="power_in"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="(DIO-8)PB-10" type="BiDi"/>
+        <pin num="20" name="(DIO-9)PB-11" type="input"/>
+        <pin num="21" name="(DIO-4)PA-12" type="BiDi"/>
+        <pin num="22" name="(DIO-5)PA-13" type="BiDi"/>
+        <pin num="23" name="(DIO-6)PA-14" type="BiDi"/>
+        <pin num="24" name="(DIO-7)PA-15" type="BiDi"/>
+        <pin num="25" name="(DispDIN)PA-16" type="BiDi"/>
+        <pin num="26" name="(DispCLK)PA-17" type="BiDi"/>
+        <pin num="27" name="(DispDC)PA-18" type="BiDi"/>
+        <pin num="28" name="(DispRST)PA-19" type="BiDi"/>
+        <pin num="29" name="PA-20(UserBTN1)" type="input"/>
+        <pin num="30" name="PA-21(UserBTN2)" type="input"/>
+        <pin num="31" name="(ProgTx)PA-22" type="BiDi"/>
+        <pin num="32" name="(ProgRx)PA-23" type="BiDi"/>
+        <pin num="33" name="(USB-DM)PA-24" type="BiDi"/>
+        <pin num="34" name="(USB-DP)PA-25" type="BiDi"/>
+        <pin num="35" name="GND" type="power_in"/>
+        <pin num="36" name="VDDIO" type="power_in"/>
+        <pin num="37" name="PB-22(ENCA)" type="BiDi"/>
+        <pin num="38" name="PB-23(ENCB)" type="BiDi"/>
+        <pin num="39" name="PA-28(ENCE)" type="BiDi"/>
+        <pin num="40" name="~RESET" type="input"/>
+        <pin num="41" name="(USB-SENSE)PA-28" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="VDDCORE" type="passive"/>
+        <pin num="44" name="VDDIN" type="power_in"/>
+        <pin num="45" name="PA-30(SWCLK)" type="BiDi"/>
+        <pin num="46" name="PA-13(SWDIO)" type="BiDi"/>
+        <pin num="47" name="PB-02(UserLED1)" type="output"/>
+        <pin num="48" name="PB-03(UserLED2)" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="TLC5916">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLC5916</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="SDI" type="input"/>
+        <pin num="3" name="CLK" type="input"/>
+        <pin num="4" name="LE(ED1)" type="input"/>
+        <pin num="5" name="~OUT0" type="output"/>
+        <pin num="6" name="~OUT1" type="output"/>
+        <pin num="7" name="~OUT2" type="output"/>
+        <pin num="8" name="~OUT3" type="output"/>
+        <pin num="9" name="~OUT4" type="output"/>
+        <pin num="10" name="~OUT5" type="output"/>
+        <pin num="11" name="~OUT6" type="output"/>
+        <pin num="12" name="~OUT7" type="output"/>
+        <pin num="13" name="~OE(ED2)" type="input"/>
+        <pin num="14" name="SDO" type="output"/>
+        <pin num="15" name="R-EXT" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="TestPoint">
+      <description>TestPoint</description>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="USB_MICRO_AB">
+      <description>micro/mini connector</description>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_MICRO_AB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_out"/>
+        <pin num="2" name="D-" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="ID" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="SH1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ioProto16" part="mounting_hole_4-40">
+      <description>Mounting Hole, 4-40</description>
+      <fields>
+        <field name="Reference">MH</field>
+        <field name="Value">mounting_hole_4-40</field>
+      </fields>
+    </libpart>
+    <libpart lib="ioProto16" part="reg19a">
+      <fields>
+        <field name="Reference">REG</field>
+        <field name="Value">reg19a</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PG" type="openCol"/>
+        <pin num="2" name="EN" type="input"/>
+        <pin num="3" name="VIN" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+        <pin num="6" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ioProto16">
+      <uri>D:\Apps\ioProto16\ioProto16\ioProto16.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="ioProto16-cache">
+      <uri>D:\Apps\ioProto16\ioProto16\ioProto16-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="E1" pin="5"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="2" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="E1" pin="3"/>
+    </net>
+    <net code="3" name="/MOSI-2">
+      <node ref="U3" pin="14"/>
+      <node ref="U9" pin="14"/>
+    </net>
+    <net code="4" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="E1" pin="1"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="5" name="/IOX-2">
+      <node ref="U7" pin="15"/>
+      <node ref="P6" pin="7"/>
+    </net>
+    <net code="6" name="/USB_Sns">
+      <node ref="U7" pin="41"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="7" name="Net-(D6-Pad4)">
+      <node ref="R13" pin="2"/>
+      <node ref="P9" pin="1"/>
+      <node ref="D6" pin="4"/>
+    </net>
+    <net code="8" name="/IOX-8">
+      <node ref="P6" pin="17"/>
+      <node ref="U7" pin="19"/>
+    </net>
+    <net code="9" name="/IOX-6">
+      <node ref="P6" pin="13"/>
+      <node ref="U7" pin="23"/>
+    </net>
+    <net code="10" name="/IOX-4">
+      <node ref="U7" pin="21"/>
+      <node ref="P6" pin="11"/>
+    </net>
+    <net code="11" name="/IOX-3">
+      <node ref="P6" pin="8"/>
+      <node ref="U7" pin="16"/>
+    </net>
+    <net code="12" name="/IOX-5">
+      <node ref="U7" pin="22"/>
+      <node ref="P6" pin="12"/>
+    </net>
+    <net code="13" name="/IOX-7">
+      <node ref="U7" pin="24"/>
+      <node ref="P6" pin="14"/>
+    </net>
+    <net code="14" name="/IOX-9">
+      <node ref="P6" pin="18"/>
+      <node ref="U7" pin="20"/>
+    </net>
+    <net code="15" name="Net-(P8-Pad2)">
+      <node ref="U8" pin="16"/>
+      <node ref="P8" pin="2"/>
+    </net>
+    <net code="16" name="Net-(P8-Pad3)">
+      <node ref="P8" pin="3"/>
+      <node ref="U8" pin="15"/>
+    </net>
+    <net code="17" name="/VDDCORE">
+      <node ref="C7" pin="1"/>
+      <node ref="U7" pin="43"/>
+    </net>
+    <net code="18" name="/USB_DM">
+      <node ref="D6" pin="3"/>
+      <node ref="U7" pin="33"/>
+      <node ref="P9" pin="2"/>
+    </net>
+    <net code="19" name="/USB_DP">
+      <node ref="P9" pin="3"/>
+      <node ref="D6" pin="2"/>
+      <node ref="U7" pin="34"/>
+    </net>
+    <net code="20" name="Net-(LED02-Pad1)">
+      <node ref="LED02" pin="1"/>
+      <node ref="U10" pin="7"/>
+    </net>
+    <net code="21" name="Net-(LED06-Pad1)">
+      <node ref="U10" pin="11"/>
+      <node ref="LED06" pin="1"/>
+    </net>
+    <net code="22" name="Net-(LED05-Pad1)">
+      <node ref="LED05" pin="1"/>
+      <node ref="U10" pin="10"/>
+    </net>
+    <net code="23" name="Net-(LED04-Pad1)">
+      <node ref="U10" pin="9"/>
+      <node ref="LED04" pin="1"/>
+    </net>
+    <net code="24" name="Net-(LED03-Pad1)">
+      <node ref="LED03" pin="1"/>
+      <node ref="U10" pin="8"/>
+    </net>
+    <net code="25" name="Net-(LED01-Pad1)">
+      <node ref="LED01" pin="1"/>
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="26" name="Net-(LED00-Pad1)">
+      <node ref="U10" pin="5"/>
+      <node ref="LED00" pin="1"/>
+    </net>
+    <net code="27" name="Net-(LED07-Pad1)">
+      <node ref="LED07" pin="1"/>
+      <node ref="U10" pin="12"/>
+    </net>
+    <net code="28" name="/MISO-1">
+      <node ref="U12" pin="10"/>
+      <node ref="U13" pin="9"/>
+    </net>
+    <net code="29" name="/MISO-3">
+      <node ref="U1" pin="9"/>
+      <node ref="U2" pin="10"/>
+    </net>
+    <net code="30" name="/MOSI-3">
+      <node ref="U4" pin="14"/>
+      <node ref="U3" pin="9"/>
+    </net>
+    <net code="31" name="Net-(LED11-Pad1)">
+      <node ref="U9" pin="8"/>
+      <node ref="LED11" pin="1"/>
+    </net>
+    <net code="32" name="Net-(LED15-Pad1)">
+      <node ref="U9" pin="12"/>
+      <node ref="LED15" pin="1"/>
+    </net>
+    <net code="33" name="Net-(LED14-Pad1)">
+      <node ref="LED14" pin="1"/>
+      <node ref="U9" pin="11"/>
+    </net>
+    <net code="34" name="Net-(LED13-Pad1)">
+      <node ref="LED13" pin="1"/>
+      <node ref="U9" pin="10"/>
+    </net>
+    <net code="35" name="Net-(LED12-Pad1)">
+      <node ref="LED12" pin="1"/>
+      <node ref="U9" pin="9"/>
+    </net>
+    <net code="36" name="Net-(LED10-Pad1)">
+      <node ref="LED10" pin="1"/>
+      <node ref="U9" pin="7"/>
+    </net>
+    <net code="37" name="Net-(LED09-Pad1)">
+      <node ref="LED09" pin="1"/>
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="38" name="Net-(LED08-Pad1)">
+      <node ref="LED08" pin="1"/>
+      <node ref="U9" pin="5"/>
+    </net>
+    <net code="39" name="/MISO-4">
+      <node ref="U1" pin="10"/>
+      <node ref="R30" pin="1"/>
+    </net>
+    <net code="40" name="/MOSI-4">
+      <node ref="U4" pin="9"/>
+      <node ref="R32" pin="1"/>
+    </net>
+    <net code="41" name="/DiagRx">
+      <node ref="U7" pin="8"/>
+      <node ref="P6" pin="2"/>
+      <node ref="P12" pin="1"/>
+    </net>
+    <net code="42" name="/DiagTx">
+      <node ref="P12" pin="2"/>
+      <node ref="P6" pin="1"/>
+      <node ref="U7" pin="7"/>
+    </net>
+    <net code="43" name="GND">
+      <node ref="U1" pin="15"/>
+      <node ref="U2" pin="8"/>
+      <node ref="REG1" pin="4"/>
+      <node ref="U3" pin="8"/>
+      <node ref="R24" pin="2"/>
+      <node ref="R25" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="TP1" pin="1"/>
+      <node ref="C8" pin="2"/>
+      <node ref="R26" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="P7" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C23" pin="2"/>
+      <node ref="DISP1" pin="1"/>
+      <node ref="U2" pin="15"/>
+      <node ref="DISP1" pin="5"/>
+      <node ref="DISP1" pin="6"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="REG1" pin="6"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="TP2" pin="1"/>
+      <node ref="C13" pin="2"/>
+      <node ref="P9" pin="5"/>
+      <node ref="P8" pin="5"/>
+      <node ref="D6" pin="1"/>
+      <node ref="P6" pin="15"/>
+      <node ref="P6" pin="16"/>
+      <node ref="P13" pin="1"/>
+      <node ref="LED16" pin="1"/>
+      <node ref="PB2" pin="2"/>
+      <node ref="R15" pin="1"/>
+      <node ref="JB3" pin="2"/>
+      <node ref="R14" pin="1"/>
+      <node ref="P1" pin="9"/>
+      <node ref="P1" pin="10"/>
+      <node ref="P6" pin="9"/>
+      <node ref="P6" pin="10"/>
+      <node ref="P6" pin="20"/>
+      <node ref="P6" pin="3"/>
+      <node ref="P6" pin="4"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="P11" pin="3"/>
+      <node ref="P11" pin="5"/>
+      <node ref="P11" pin="6"/>
+      <node ref="U11" pin="13"/>
+      <node ref="P11" pin="9"/>
+      <node ref="U14" pin="3"/>
+      <node ref="SW00" pin="1"/>
+      <node ref="U6" pin="5"/>
+      <node ref="C31" pin="1"/>
+      <node ref="R37" pin="1"/>
+      <node ref="PB1" pin="2"/>
+      <node ref="PB3" pin="1"/>
+      <node ref="U3" pin="13"/>
+      <node ref="P2" pin="10"/>
+      <node ref="U7" pin="5"/>
+      <node ref="P2" pin="9"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="BAT1" pin="1"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="SW12" pin="3"/>
+      <node ref="U13" pin="8"/>
+      <node ref="REG2" pin="1"/>
+      <node ref="SW15" pin="3"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="SW14" pin="3"/>
+      <node ref="C28" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="U5" pin="3"/>
+      <node ref="U5" pin="4"/>
+      <node ref="SW13" pin="1"/>
+      <node ref="U5" pin="7"/>
+      <node ref="U4" pin="8"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="SW11" pin="3"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW10" pin="3"/>
+      <node ref="C29" pin="2"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="C30" pin="2"/>
+      <node ref="U13" pin="15"/>
+      <node ref="U12" pin="8"/>
+      <node ref="U12" pin="15"/>
+      <node ref="U1" pin="8"/>
+      <node ref="SW13" pin="3"/>
+      <node ref="U11" pin="7"/>
+      <node ref="P3" pin="10"/>
+      <node ref="U8" pin="7"/>
+      <node ref="U7" pin="42"/>
+      <node ref="C26" pin="2"/>
+      <node ref="U7" pin="35"/>
+      <node ref="U9" pin="1"/>
+      <node ref="U10" pin="13"/>
+      <node ref="U7" pin="18"/>
+      <node ref="U10" pin="1"/>
+      <node ref="P3" pin="9"/>
+      <node ref="U8" pin="25"/>
+      <node ref="P10" pin="5"/>
+      <node ref="P10" pin="3"/>
+      <node ref="P5" pin="8"/>
+      <node ref="DISP1" pin="20"/>
+      <node ref="DISP1" pin="11"/>
+      <node ref="DISP1" pin="12"/>
+      <node ref="DISP1" pin="13"/>
+      <node ref="DISP1" pin="14"/>
+      <node ref="U4" pin="13"/>
+      <node ref="DISP1" pin="17"/>
+      <node ref="DISP1" pin="19"/>
+      <node ref="DISP1" pin="10"/>
+      <node ref="C27" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="U8" pin="21"/>
+      <node ref="E1" pin="4"/>
+      <node ref="E1" pin="2"/>
+      <node ref="SW08" pin="1"/>
+      <node ref="SW01" pin="1"/>
+      <node ref="SW07" pin="3"/>
+      <node ref="SW07" pin="1"/>
+      <node ref="SW06" pin="3"/>
+      <node ref="SW06" pin="1"/>
+      <node ref="SW05" pin="3"/>
+      <node ref="SW09" pin="3"/>
+      <node ref="SW04" pin="3"/>
+      <node ref="SW04" pin="1"/>
+      <node ref="SW03" pin="3"/>
+      <node ref="P4" pin="10"/>
+      <node ref="SW03" pin="1"/>
+      <node ref="P4" pin="9"/>
+      <node ref="SW02" pin="3"/>
+      <node ref="SW01" pin="3"/>
+      <node ref="SW02" pin="1"/>
+      <node ref="P5" pin="7"/>
+      <node ref="U9" pin="13"/>
+      <node ref="SW00" pin="3"/>
+      <node ref="U8" pin="18"/>
+      <node ref="SW05" pin="1"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW09" pin="1"/>
+      <node ref="SW08" pin="3"/>
+    </net>
+    <net code="44" name="/~DIOLoad">
+      <node ref="R34" pin="1"/>
+      <node ref="U3" pin="12"/>
+      <node ref="U14" pin="4"/>
+      <node ref="U4" pin="12"/>
+    </net>
+    <net code="45" name="Net-(LED17-Pad2)">
+      <node ref="R17" pin="2"/>
+      <node ref="LED17" pin="2"/>
+    </net>
+    <net code="46" name="Net-(JB4-Pad2)">
+      <node ref="LED17" pin="1"/>
+      <node ref="JB4" pin="2"/>
+    </net>
+    <net code="47" name="/1Hz">
+      <node ref="U7" pin="3"/>
+      <node ref="U6" pin="3"/>
+    </net>
+    <net code="48" name="/ProgTx">
+      <node ref="U7" pin="31"/>
+      <node ref="U8" pin="5"/>
+    </net>
+    <net code="49" name="/SCK">
+      <node ref="U2" pin="2"/>
+      <node ref="U13" pin="2"/>
+      <node ref="U4" pin="11"/>
+      <node ref="P5" pin="3"/>
+      <node ref="U10" pin="3"/>
+      <node ref="U12" pin="2"/>
+      <node ref="U3" pin="11"/>
+      <node ref="U9" pin="3"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U7" pin="10"/>
+    </net>
+    <net code="50" name="/MOSI-0">
+      <node ref="R33" pin="1"/>
+      <node ref="U10" pin="2"/>
+      <node ref="U7" pin="9"/>
+    </net>
+    <net code="51" name="/DIOLoad">
+      <node ref="U13" pin="1"/>
+      <node ref="U9" pin="4"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U10" pin="4"/>
+      <node ref="U2" pin="1"/>
+      <node ref="U12" pin="1"/>
+      <node ref="R35" pin="1"/>
+      <node ref="U14" pin="2"/>
+      <node ref="U7" pin="12"/>
+    </net>
+    <net code="52" name="/AIO-SCL">
+      <node ref="U6" pin="7"/>
+      <node ref="U7" pin="2"/>
+      <node ref="R22" pin="2"/>
+      <node ref="U5" pin="6"/>
+      <node ref="P5" pin="9"/>
+    </net>
+    <net code="53" name="Net-(C30-Pad1)">
+      <node ref="C30" pin="1"/>
+      <node ref="R10" pin="2"/>
+      <node ref="D5" pin="1"/>
+      <node ref="U11" pin="11"/>
+    </net>
+    <net code="54" name="Net-(C29-Pad1)">
+      <node ref="U11" pin="9"/>
+      <node ref="C29" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="D4" pin="1"/>
+    </net>
+    <net code="55" name="/AIO-SDA">
+      <node ref="U6" pin="8"/>
+      <node ref="R23" pin="2"/>
+      <node ref="U5" pin="5"/>
+      <node ref="P5" pin="10"/>
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="56" name="Net-(C25-Pad1)">
+      <node ref="U5" pin="1"/>
+      <node ref="C25" pin="1"/>
+    </net>
+    <net code="57" name="+3V3">
+      <node ref="R3" pin="1"/>
+      <node ref="C25" pin="2"/>
+      <node ref="DISP1" pin="2"/>
+      <node ref="C14" pin="1"/>
+      <node ref="U4" pin="10"/>
+      <node ref="R17" pin="1"/>
+      <node ref="U7" pin="6"/>
+      <node ref="R22" pin="1"/>
+      <node ref="C15" pin="1"/>
+      <node ref="U2" pin="16"/>
+      <node ref="C16" pin="1"/>
+      <node ref="R23" pin="1"/>
+      <node ref="TP3" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="U1" pin="16"/>
+      <node ref="U11" pin="14"/>
+      <node ref="U7" pin="17"/>
+      <node ref="U10" pin="16"/>
+      <node ref="U13" pin="16"/>
+      <node ref="P10" pin="1"/>
+      <node ref="U7" pin="36"/>
+      <node ref="U9" pin="16"/>
+      <node ref="R5" pin="1"/>
+      <node ref="R36" pin="1"/>
+      <node ref="U4" pin="16"/>
+      <node ref="R1" pin="1"/>
+      <node ref="U3" pin="16"/>
+      <node ref="U6" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U5" pin="8"/>
+      <node ref="U7" pin="44"/>
+      <node ref="U3" pin="10"/>
+      <node ref="P11" pin="1"/>
+      <node ref="R18" pin="1"/>
+      <node ref="LED03" pin="2"/>
+      <node ref="LED04" pin="2"/>
+      <node ref="LED05" pin="2"/>
+      <node ref="LED06" pin="2"/>
+      <node ref="U12" pin="16"/>
+      <node ref="LED00" pin="2"/>
+      <node ref="LED01" pin="2"/>
+      <node ref="R7" pin="1"/>
+      <node ref="LED02" pin="2"/>
+      <node ref="JB2" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="R11" pin="2"/>
+      <node ref="RR2" pin="1"/>
+      <node ref="RR1" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="LED15" pin="2"/>
+      <node ref="LED07" pin="2"/>
+      <node ref="LED14" pin="2"/>
+      <node ref="LED13" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C18" pin="1"/>
+      <node ref="U14" pin="5"/>
+      <node ref="LED09" pin="2"/>
+      <node ref="R9" pin="1"/>
+      <node ref="LED10" pin="2"/>
+      <node ref="LED11" pin="2"/>
+      <node ref="C17" pin="1"/>
+      <node ref="LED12" pin="2"/>
+      <node ref="LED08" pin="2"/>
+    </net>
+    <net code="58" name="/BTN2">
+      <node ref="U11" pin="8"/>
+      <node ref="U7" pin="30"/>
+    </net>
+    <net code="59" name="Net-(JB1-Pad1)">
+      <node ref="P7" pin="3"/>
+      <node ref="JB1" pin="1"/>
+    </net>
+    <net code="60" name="Net-(C31-Pad2)">
+      <node ref="C31" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="R11" pin="1"/>
+      <node ref="JB5" pin="3"/>
+    </net>
+    <net code="61" name="Net-(LED19-Pad1)">
+      <node ref="LED19" pin="1"/>
+      <node ref="U7" pin="48"/>
+    </net>
+    <net code="62" name="Net-(JB2-Pad1)">
+      <node ref="P7" pin="1"/>
+      <node ref="JB2" pin="1"/>
+    </net>
+    <net code="63" name="/MISO-0">
+      <node ref="U12" pin="9"/>
+      <node ref="R31" pin="1"/>
+      <node ref="U7" pin="11"/>
+    </net>
+    <net code="64" name="Net-(U8-Pad19)">
+      <node ref="U8" pin="19"/>
+    </net>
+    <net code="65" name="Net-(U8-Pad28)">
+      <node ref="U8" pin="28"/>
+    </net>
+    <net code="66" name="Net-(U8-Pad27)">
+      <node ref="U8" pin="27"/>
+    </net>
+    <net code="67" name="Net-(U8-Pad26)">
+      <node ref="U8" pin="26"/>
+    </net>
+    <net code="68" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1"/>
+      <node ref="JB2" pin="3"/>
+      <node ref="REG2" pin="2"/>
+      <node ref="REG1" pin="5"/>
+    </net>
+    <net code="69" name="Net-(LED18-Pad1)">
+      <node ref="LED18" pin="1"/>
+      <node ref="U7" pin="47"/>
+    </net>
+    <net code="70" name="/ENCA">
+      <node ref="U7" pin="37"/>
+      <node ref="U11" pin="2"/>
+    </net>
+    <net code="71" name="/ENCE">
+      <node ref="U11" pin="4"/>
+      <node ref="U7" pin="38"/>
+    </net>
+    <net code="72" name="/IOX-1">
+      <node ref="U7" pin="14"/>
+      <node ref="P6" pin="6"/>
+    </net>
+    <net code="73" name="/IOX-0">
+      <node ref="P6" pin="5"/>
+      <node ref="U7" pin="13"/>
+    </net>
+    <net code="74" name="/ProgRx">
+      <node ref="U8" pin="1"/>
+      <node ref="U7" pin="32"/>
+    </net>
+    <net code="75" name="Net-(U8-Pad24)">
+      <node ref="U8" pin="24"/>
+    </net>
+    <net code="76" name="Net-(U8-Pad14)">
+      <node ref="U8" pin="14"/>
+    </net>
+    <net code="77" name="Net-(U8-Pad13)">
+      <node ref="U8" pin="13"/>
+    </net>
+    <net code="78" name="Net-(U8-Pad12)">
+      <node ref="U8" pin="12"/>
+    </net>
+    <net code="79" name="Net-(U8-Pad11)">
+      <node ref="U8" pin="11"/>
+    </net>
+    <net code="80" name="Net-(U8-Pad10)">
+      <node ref="U8" pin="10"/>
+    </net>
+    <net code="81" name="Net-(U8-Pad9)">
+      <node ref="U8" pin="9"/>
+    </net>
+    <net code="82" name="Net-(U8-Pad8)">
+      <node ref="U8" pin="8"/>
+    </net>
+    <net code="83" name="Net-(U8-Pad6)">
+      <node ref="U8" pin="6"/>
+    </net>
+    <net code="84" name="Net-(U8-Pad3)">
+      <node ref="U8" pin="3"/>
+    </net>
+    <net code="85" name="/ENCB">
+      <node ref="U7" pin="39"/>
+      <node ref="U11" pin="6"/>
+    </net>
+    <net code="86" name="/BTN1">
+      <node ref="U7" pin="29"/>
+      <node ref="U11" pin="10"/>
+    </net>
+    <net code="87" name="Net-(DISP1-Pad15)">
+      <node ref="JB3" pin="1"/>
+      <node ref="DISP1" pin="15"/>
+      <node ref="DISP1" pin="18"/>
+      <node ref="DISP1" pin="3"/>
+    </net>
+    <net code="88" name="/DispRST#">
+      <node ref="DISP1" pin="16"/>
+      <node ref="U7" pin="28"/>
+    </net>
+    <net code="89" name="Net-(DISP1-Pad9)">
+      <node ref="DISP1" pin="9"/>
+    </net>
+    <net code="90" name="/DispMOSI">
+      <node ref="DISP1" pin="8"/>
+      <node ref="U7" pin="25"/>
+    </net>
+    <net code="91" name="/DispSCK">
+      <node ref="DISP1" pin="7"/>
+      <node ref="U7" pin="26"/>
+    </net>
+    <net code="92" name="/DispDCSel">
+      <node ref="DISP1" pin="4"/>
+      <node ref="U7" pin="27"/>
+    </net>
+    <net code="93" name="/IOX-10">
+      <node ref="P6" pin="19"/>
+      <node ref="JB4" pin="1"/>
+      <node ref="U7" pin="4"/>
+    </net>
+    <net code="94" name="/~Reset">
+      <node ref="JB5" pin="2"/>
+      <node ref="JB5" pin="4"/>
+      <node ref="U7" pin="40"/>
+      <node ref="JB5" pin="6"/>
+    </net>
+    <net code="95" name="/PWRx">
+      <node ref="R36" pin="2"/>
+      <node ref="P5" pin="5"/>
+      <node ref="P5" pin="6"/>
+      <node ref="R37" pin="2"/>
+    </net>
+    <net code="96" name="/LOADx">
+      <node ref="P5" pin="4"/>
+      <node ref="R34" pin="2"/>
+      <node ref="R35" pin="2"/>
+    </net>
+    <net code="97" name="/MOSIx">
+      <node ref="P5" pin="2"/>
+      <node ref="R32" pin="2"/>
+      <node ref="R33" pin="2"/>
+    </net>
+    <net code="98" name="/MISOx">
+      <node ref="R30" pin="2"/>
+      <node ref="P5" pin="1"/>
+      <node ref="R31" pin="2"/>
+    </net>
+    <net code="99" name="/USB_5V">
+      <node ref="C20" pin="1"/>
+      <node ref="L1" pin="1"/>
+      <node ref="P8" pin="1"/>
+    </net>
+    <net code="100" name="Net-(P11-Pad8)">
+      <node ref="P11" pin="8"/>
+    </net>
+    <net code="101" name="Net-(P11-Pad7)">
+      <node ref="P11" pin="7"/>
+    </net>
+    <net code="102" name="/SWDCLK">
+      <node ref="U7" pin="46"/>
+      <node ref="P10" pin="4"/>
+      <node ref="P11" pin="4"/>
+    </net>
+    <net code="103" name="/nRESET">
+      <node ref="JB5" pin="1"/>
+      <node ref="P10" pin="6"/>
+      <node ref="P11" pin="10"/>
+    </net>
+    <net code="104" name="/SWDIO">
+      <node ref="P10" pin="2"/>
+      <node ref="U7" pin="45"/>
+      <node ref="P11" pin="2"/>
+    </net>
+    <net code="105" name="Net-(P9-Pad4)">
+      <node ref="P9" pin="4"/>
+    </net>
+    <net code="106" name="Net-(P8-Pad4)">
+      <node ref="P8" pin="4"/>
+    </net>
+    <net code="107" name="Net-(P9-Pad6)">
+      <node ref="R15" pin="2"/>
+      <node ref="P9" pin="6"/>
+      <node ref="P9" pin="6"/>
+      <node ref="P9" pin="6"/>
+    </net>
+    <net code="108" name="Net-(BAT1-Pad2)">
+      <node ref="U6" pin="6"/>
+      <node ref="BAT1" pin="2"/>
+    </net>
+    <net code="109" name="Net-(PB3-Pad4)">
+      <node ref="R12" pin="1"/>
+      <node ref="PB3" pin="4"/>
+    </net>
+    <net code="110" name="/SW02">
+      <node ref="U13" pin="13"/>
+      <node ref="SW02" pin="2"/>
+      <node ref="RR2" pin="4"/>
+    </net>
+    <net code="111" name="/SW03">
+      <node ref="RR2" pin="5"/>
+      <node ref="SW03" pin="2"/>
+      <node ref="U13" pin="14"/>
+    </net>
+    <net code="112" name="/SW04">
+      <node ref="U13" pin="3"/>
+      <node ref="SW04" pin="2"/>
+      <node ref="RR2" pin="6"/>
+    </net>
+    <net code="113" name="/SW05">
+      <node ref="SW05" pin="2"/>
+      <node ref="RR2" pin="7"/>
+      <node ref="U13" pin="4"/>
+    </net>
+    <net code="114" name="/SW06">
+      <node ref="SW06" pin="2"/>
+      <node ref="RR2" pin="8"/>
+      <node ref="U13" pin="5"/>
+    </net>
+    <net code="115" name="/SW07">
+      <node ref="U13" pin="6"/>
+      <node ref="SW07" pin="2"/>
+      <node ref="RR2" pin="9"/>
+    </net>
+    <net code="116" name="/SW08">
+      <node ref="SW08" pin="2"/>
+      <node ref="RR1" pin="2"/>
+      <node ref="U12" pin="11"/>
+    </net>
+    <net code="117" name="/SW09">
+      <node ref="U12" pin="12"/>
+      <node ref="SW09" pin="2"/>
+      <node ref="RR1" pin="3"/>
+    </net>
+    <net code="118" name="/SW10">
+      <node ref="RR1" pin="4"/>
+      <node ref="U12" pin="13"/>
+      <node ref="SW10" pin="2"/>
+    </net>
+    <net code="119" name="/SW11">
+      <node ref="U12" pin="14"/>
+      <node ref="RR1" pin="5"/>
+      <node ref="SW11" pin="2"/>
+    </net>
+    <net code="120" name="/SW12">
+      <node ref="U12" pin="3"/>
+      <node ref="SW12" pin="2"/>
+      <node ref="RR1" pin="6"/>
+    </net>
+    <net code="121" name="/SW01">
+      <node ref="RR2" pin="3"/>
+      <node ref="U13" pin="12"/>
+      <node ref="SW01" pin="2"/>
+    </net>
+    <net code="122" name="/SW00">
+      <node ref="RR2" pin="2"/>
+      <node ref="U13" pin="11"/>
+      <node ref="SW00" pin="2"/>
+    </net>
+    <net code="123" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1"/>
+      <node ref="REG1" pin="3"/>
+      <node ref="JB1" pin="2"/>
+      <node ref="REG2" pin="3"/>
+    </net>
+    <net code="124" name="Net-(D5-Pad2)">
+      <node ref="PB1" pin="4"/>
+      <node ref="D5" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="125" name="Net-(D4-Pad2)">
+      <node ref="PB2" pin="4"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R8" pin="1"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="126" name="Earth">
+      <node ref="P8" pin="6"/>
+      <node ref="C20" pin="2"/>
+      <node ref="P8" pin="6"/>
+      <node ref="R26" pin="1"/>
+      <node ref="P8" pin="6"/>
+    </net>
+    <net code="127" name="Net-(LED21-Pad1)">
+      <node ref="LED21" pin="1"/>
+      <node ref="U8" pin="23"/>
+    </net>
+    <net code="128" name="Net-(LED20-Pad1)">
+      <node ref="U8" pin="22"/>
+      <node ref="LED20" pin="1"/>
+    </net>
+    <net code="129" name="/USB_3V3">
+      <node ref="U8" pin="4"/>
+      <node ref="R21" pin="1"/>
+      <node ref="U8" pin="17"/>
+      <node ref="C8" pin="1"/>
+      <node ref="R20" pin="1"/>
+    </net>
+    <net code="130" name="Net-(PB1-Pad3)">
+      <node ref="PB1" pin="3"/>
+    </net>
+    <net code="131" name="Net-(R24-Pad1)">
+      <node ref="U9" pin="15"/>
+      <node ref="R24" pin="1"/>
+    </net>
+    <net code="132" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1"/>
+      <node ref="U10" pin="15"/>
+    </net>
+    <net code="133" name="/~USBReset">
+      <node ref="U8" pin="2"/>
+      <node ref="JB5" pin="5"/>
+    </net>
+    <net code="134" name="Net-(LED19-Pad2)">
+      <node ref="R19" pin="2"/>
+      <node ref="LED19" pin="2"/>
+    </net>
+    <net code="135" name="/MISO-2">
+      <node ref="U2" pin="9"/>
+      <node ref="U13" pin="10"/>
+    </net>
+    <net code="136" name="Net-(U2-Pad7)">
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="137" name="/DI-15">
+      <node ref="P2" pin="8"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="138" name="/DI-14">
+      <node ref="P2" pin="7"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="139" name="/DI-13">
+      <node ref="P2" pin="6"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="140" name="/DI-12">
+      <node ref="U2" pin="3"/>
+      <node ref="P2" pin="5"/>
+    </net>
+    <net code="141" name="/DI-01">
+      <node ref="U1" pin="12"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="142" name="/DI-00">
+      <node ref="U1" pin="11"/>
+      <node ref="P1" pin="1"/>
+    </net>
+    <net code="143" name="Net-(U1-Pad7)">
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="144" name="/DI-11">
+      <node ref="P2" pin="4"/>
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="145" name="/DI-10">
+      <node ref="P2" pin="3"/>
+      <node ref="U2" pin="13"/>
+    </net>
+    <net code="146" name="/DI-09">
+      <node ref="P2" pin="2"/>
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="147" name="/DI-08">
+      <node ref="U2" pin="11"/>
+      <node ref="P2" pin="1"/>
+    </net>
+    <net code="148" name="Net-(C28-Pad1)">
+      <node ref="U11" pin="3"/>
+      <node ref="D3" pin="1"/>
+      <node ref="R6" pin="2"/>
+      <node ref="C28" pin="1"/>
+    </net>
+    <net code="149" name="Net-(C27-Pad1)">
+      <node ref="U11" pin="5"/>
+      <node ref="D2" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C27" pin="1"/>
+    </net>
+    <net code="150" name="/MOSI-1">
+      <node ref="U10" pin="14"/>
+      <node ref="U9" pin="2"/>
+    </net>
+    <net code="151" name="Net-(C26-Pad1)">
+      <node ref="R2" pin="2"/>
+      <node ref="U11" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="152" name="/SW14">
+      <node ref="U12" pin="5"/>
+      <node ref="RR1" pin="8"/>
+      <node ref="SW14" pin="2"/>
+    </net>
+    <net code="153" name="/SW15">
+      <node ref="SW15" pin="2"/>
+      <node ref="RR1" pin="9"/>
+      <node ref="U12" pin="6"/>
+    </net>
+    <net code="154" name="/SW13">
+      <node ref="U12" pin="4"/>
+      <node ref="SW13" pin="2"/>
+      <node ref="RR1" pin="7"/>
+    </net>
+    <net code="155" name="Net-(U12-Pad7)">
+      <node ref="U12" pin="7"/>
+    </net>
+    <net code="156" name="Net-(U13-Pad7)">
+      <node ref="U13" pin="7"/>
+    </net>
+    <net code="157" name="Net-(PB3-Pad2)">
+      <node ref="PB3" pin="2"/>
+    </net>
+    <net code="158" name="Net-(PB3-Pad3)">
+      <node ref="PB3" pin="3"/>
+    </net>
+    <net code="159" name="Net-(PB1-Pad1)">
+      <node ref="PB1" pin="1"/>
+    </net>
+    <net code="160" name="Net-(U6-Pad4)">
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="161" name="Net-(U6-Pad1)">
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="162" name="/DO-09">
+      <node ref="P4" pin="2"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="163" name="Net-(U11-Pad12)">
+      <node ref="U11" pin="12"/>
+    </net>
+    <net code="164" name="/DO-10">
+      <node ref="U4" pin="2"/>
+      <node ref="P4" pin="3"/>
+    </net>
+    <net code="165" name="/DO-15">
+      <node ref="P4" pin="8"/>
+      <node ref="U4" pin="7"/>
+    </net>
+    <net code="166" name="/DO-14">
+      <node ref="P4" pin="7"/>
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="167" name="/DO-13">
+      <node ref="U4" pin="5"/>
+      <node ref="P4" pin="6"/>
+    </net>
+    <net code="168" name="/DO-12">
+      <node ref="P4" pin="5"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="169" name="/DO-11">
+      <node ref="U4" pin="3"/>
+      <node ref="P4" pin="4"/>
+    </net>
+    <net code="170" name="Net-(LED21-Pad2)">
+      <node ref="R21" pin="2"/>
+      <node ref="LED21" pin="2"/>
+    </net>
+    <net code="171" name="Net-(LED20-Pad2)">
+      <node ref="R20" pin="2"/>
+      <node ref="LED20" pin="2"/>
+    </net>
+    <net code="172" name="/FT232_5V">
+      <node ref="JB1" pin="3"/>
+      <node ref="L1" pin="2"/>
+      <node ref="C21" pin="1"/>
+      <node ref="C22" pin="1"/>
+      <node ref="U8" pin="20"/>
+    </net>
+    <net code="173" name="Net-(PB2-Pad3)">
+      <node ref="PB2" pin="3"/>
+    </net>
+    <net code="174" name="Net-(REG1-Pad2)">
+      <node ref="REG1" pin="2"/>
+    </net>
+    <net code="175" name="Net-(REG1-Pad1)">
+      <node ref="REG1" pin="1"/>
+    </net>
+    <net code="176" name="Net-(LED18-Pad2)">
+      <node ref="R18" pin="2"/>
+      <node ref="LED18" pin="2"/>
+    </net>
+    <net code="177" name="Net-(PB2-Pad1)">
+      <node ref="PB2" pin="1"/>
+    </net>
+    <net code="178" name="Net-(LED16-Pad2)">
+      <node ref="R16" pin="2"/>
+      <node ref="LED16" pin="2"/>
+    </net>
+    <net code="179" name="/DI-07">
+      <node ref="P1" pin="8"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="180" name="/DI-06">
+      <node ref="P1" pin="7"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="181" name="/DI-05">
+      <node ref="P1" pin="6"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="182" name="/DI-04">
+      <node ref="P1" pin="5"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="183" name="/DI-03">
+      <node ref="P1" pin="4"/>
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="184" name="/DI-02">
+      <node ref="P1" pin="3"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="185" name="/DO-07">
+      <node ref="U3" pin="7"/>
+      <node ref="P3" pin="8"/>
+    </net>
+    <net code="186" name="/DO-06">
+      <node ref="P3" pin="7"/>
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="187" name="/DO-05">
+      <node ref="P3" pin="6"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="188" name="/DO-04">
+      <node ref="P3" pin="5"/>
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="189" name="/DO-03">
+      <node ref="U3" pin="3"/>
+      <node ref="P3" pin="4"/>
+    </net>
+    <net code="190" name="/DO-02">
+      <node ref="U3" pin="2"/>
+      <node ref="P3" pin="3"/>
+    </net>
+    <net code="191" name="/DO-01">
+      <node ref="U3" pin="1"/>
+      <node ref="P3" pin="2"/>
+    </net>
+    <net code="192" name="/DO-00">
+      <node ref="U3" pin="15"/>
+      <node ref="P3" pin="1"/>
+    </net>
+    <net code="193" name="/DO-08">
+      <node ref="U4" pin="15"/>
+      <node ref="P4" pin="1"/>
+    </net>
+  </nets>
+</export>

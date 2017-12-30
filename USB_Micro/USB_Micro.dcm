@@ -1,0 +1,105 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74xx165
+D Octal Shift Register, Parallel In - Serial Out
+$ENDCMP
+#
+$CMP 74xx595
+D Octal Shift Register, Serial In - Parallel Out
+$ENDCMP
+#
+$CMP Atmel_ICE
+D Connector, double row, 02x05, pin header
+K connector
+$ENDCMP
+#
+$CMP Atmel_SWD
+D Connector, double row, 02x05, pin header
+K connector
+$ENDCMP
+#
+$CMP BARREL_JACK
+D DC Barrel Jack
+K DC power barrel jack connector
+$ENDCMP
+#
+$CMP CONN_01X01
+D Connector, single row, 01x01, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X02
+D Connector, single row, 01x02, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X06
+D Connector, single row, 01x06, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_02X03
+D Connector, double row, 02x03, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_02X05
+D Connector, double row, 02x05, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_1,4,5_FTDI_SERIAL
+D Connector, single row, 01x06, pin header
+K connector
+$ENDCMP
+#
+$CMP ENCODER
+D Rotary Encoder w/Switch
+$ENDCMP
+#
+$CMP Earth
+D Ground
+K POWER, PWR, GND, GROUND
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
+$ENDCMP
+#
+$CMP IP4220CA6
+D ESD Protection Diode Array
+$ENDCMP
+#
+$CMP LEDs
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP RR8
+D Octal SIP Resistor Array
+$ENDCMP
+#
+$CMP TLC5916
+D Octal LED Driver
+$ENDCMP
+#
+$CMP TestPoint
+D TestPoint
+K TestPoint
+$ENDCMP
+#
+$CMP USB_MICRO_AB
+D micro/mini connector
+K USB USB_OTG USB_mini USB_micro
+$ENDCMP
+#
+$CMP USB_OTG
+D micro/mini connector
+K USB USB_OTG USB_mini USB_micro
+$ENDCMP
+#
+$CMP mounting_hole_4-40
+D Mounting Hole, 4-40
+$ENDCMP
+#
+#End Doc Library
