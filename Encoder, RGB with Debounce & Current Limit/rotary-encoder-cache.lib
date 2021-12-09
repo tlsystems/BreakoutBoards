@@ -1,0 +1,199 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Breakout-Boards_74xx14
+#
+DEF Breakout-Boards_74xx14 U 0 30 Y Y 6 F N
+F0 "U" 150 100 50 H V C CNN
+F1 "Breakout-Boards_74xx14" 200 -100 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+S -65 30 -15 30 0 1 0 N
+S -50 -20 0 -20 0 1 0 N
+S -50 30 -50 -20 0 1 0 N
+S -15 30 -15 -20 0 1 0 N
+P 5 0 0 0 -100 125 -100 0 -100 -125 100 0 -100 125 N
+X VCC 14 -50 100 0 D 30 20 0 0 W N
+X GND 7 -50 -100 0 U 30 20 0 0 W N
+X ~ 1 -200 0 100 R 50 50 1 1 I
+X ~ 2 250 0 150 L 50 50 1 1 O I
+X ~ 3 -200 0 100 R 50 50 2 1 I
+X ~ 4 250 0 150 L 50 50 2 1 O I
+X ~ 5 -200 0 100 R 50 50 3 1 I
+X ~ 6 250 0 150 L 50 50 3 1 O I
+X ~ 8 250 0 150 L 50 50 4 1 O I
+X ~ 9 -200 0 100 R 50 50 4 1 I
+X ~ 10 250 0 150 L 50 50 5 1 O I
+X ~ 11 -200 0 100 R 50 50 5 1 I
+X ~ 12 250 0 150 L 50 50 6 1 O I
+X ~ 13 -200 0 100 R 50 50 6 1 I
+X ~ 1 -200 0 300 R 50 50 1 2 I I
+X ~ 2 250 0 300 L 50 50 1 2 O
+X ~ 3 -200 0 300 R 50 50 2 2 I I
+X ~ 4 250 0 300 L 50 50 2 2 O
+X ~ 5 -200 0 300 R 50 50 3 2 I I
+X ~ 6 250 0 300 L 50 50 3 2 O
+X ~ 8 250 0 300 L 50 50 4 2 O
+X ~ 9 -200 0 300 R 50 50 4 2 I I
+X ~ 10 250 0 300 L 50 50 5 2 O
+X ~ 11 -200 0 300 R 50 50 5 2 I I
+X ~ 12 250 0 300 L 50 50 6 2 O
+X ~ 13 -200 0 300 R 50 50 6 2 I I
+ENDDRAW
+ENDDEF
+#
+# Breakout-Boards_C
+#
+DEF Breakout-Boards_C C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "Breakout-Boards_C" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Breakout-Boards_D_Small
+#
+DEF Breakout-Boards_D_Small D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "Breakout-Boards_D_Small" -100 -50 25 H V L CNN
+F2 "" 0 0 50 V V C CNN
+F3 "" 0 0 50 V V C CNN
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Breakout-Boards_R
+#
+DEF Breakout-Boards_R R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "Breakout-Boards_R" 0 0 50 V V C CNN
+F2 "" -70 0 50 V V C CNN
+F3 "" 0 0 50 H V C CNN
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# power_GND
+#
+DEF power_GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "power_GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# power_PWR_FLAG
+#
+DEF power_PWR_FLAG #FLG 0 0 N N 1 F P
+F0 "#FLG" 0 75 50 H I C CNN
+F1 "power_PWR_FLAG" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
+X pwr 1 0 0 0 U 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
+# power_VCC
+#
+DEF power_VCC #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "power_VCC" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X VCC 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# rotary-encoder-rescue_CONN_01X05
+#
+DEF rotary-encoder-rescue_CONN_01X05 J 0 40 Y N 1 F N
+F0 "J" 0 300 50 H V C CNN
+F1 "rotary-encoder-rescue_CONN_01X05" 100 0 50 V V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Pin_Header_Straight_1X*
+ Pin_Header_Angled_1X*
+ Socket_Strip_Straight_1X*
+ Socket_Strip_Angled_1X*
+$ENDFPLIST
+DRAW
+S -50 -195 10 -205 0 1 0 N
+S -50 -95 10 -105 0 1 0 N
+S -50 5 10 -5 0 1 0 N
+S -50 105 10 95 0 1 0 N
+S -50 205 10 195 0 1 0 N
+S -50 250 50 -250 0 1 0 N
+X P1 1 -200 200 150 R 50 50 1 1 P
+X P2 2 -200 100 150 R 50 50 1 1 P
+X P3 3 -200 0 150 R 50 50 1 1 P
+X P4 4 -200 -100 150 R 50 50 1 1 P
+X P5 5 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# rotary-encoder-rescue_ROTARY_ENCDR_LIGHTED-Breakout-Boards
+#
+DEF rotary-encoder-rescue_ROTARY_ENCDR_LIGHTED-Breakout-Boards E 0 40 Y Y 1 F N
+F0 "E" 175 325 60 H V C CNN
+F1 "rotary-encoder-rescue_ROTARY_ENCDR_LIGHTED-Breakout-Boards" 100 -500 60 H V C CNN
+F2 "" -75 0 60 V V C CNN
+F3 "" -75 0 60 V V C CNN
+DRAW
+S -225 250 225 -250 0 1 0 N
+X + 1 -425 200 200 R 50 50 1 1 W
+X GND 10 75 -350 100 U 40 40 1 1 P
+X Bl 2 -425 100 200 R 50 50 1 1 I
+X SW 3 -425 0 200 R 50 50 1 1 w
+X Gn 4 -425 -100 200 R 50 50 1 1 I
+X Rd 5 -425 -200 200 R 50 50 1 1 I
+X B 6 425 -100 200 L 50 50 1 1 O
+X C 7 425 0 200 L 50 50 1 1 W
+X A 8 425 100 200 L 50 50 1 1 O
+X GND 9 0 -350 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

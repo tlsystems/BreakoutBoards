@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BreakoutBoards)(type KiCad)(uri "D:/Electronic Projects/Breakout Boards/BreakoutBoards.pretty")(options "")(descr ""))
+)

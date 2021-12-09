@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name rotary-encoder-rescue)(type Legacy)(uri ${KIPRJMOD}/rotary-encoder-rescue.lib)(options "")(descr ""))
+  (lib (name Breakout-Boards)(type Legacy)(uri "D:/Electronic Projects/Breakout Boards/Breakout Boards.lib")(options "")(descr ""))
+)
