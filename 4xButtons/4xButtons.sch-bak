@@ -1,0 +1,164 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW1
+U 1 1 6147C62A
+P 4200 3050
+F 0 "SW1" H 4200 3243 50  0000 C CNN
+F 1 "SW_Push" H 4200 3244 50  0001 C CNN
+F 2 "BreakoutBoards:SPST_PB" H 4200 3250 50  0001 C CNN
+F 3 "~" H 4200 3250 50  0001 C CNN
+	1    4200 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J8
+U 1 1 6147C930
+P 4725 3050
+F 0 "J8" H 4697 3028 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 4833 3140 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 4725 3050 50  0001 C CNN
+F 3 "~" H 4725 3050 50  0001 C CNN
+	1    4725 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 6147D6FE
+P 3675 3050
+F 0 "J1" H 3783 3139 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3783 3140 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 3675 3050 50  0001 C CNN
+F 3 "~" H 3675 3050 50  0001 C CNN
+	1    3675 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 6147EBAC
+P 4200 3350
+F 0 "SW2" H 4200 3543 50  0000 C CNN
+F 1 "SW_Push" H 4200 3544 50  0001 C CNN
+F 2 "BreakoutBoards:SPST_PB" H 4200 3550 50  0001 C CNN
+F 3 "~" H 4200 3550 50  0001 C CNN
+	1    4200 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J7
+U 1 1 6147EBF2
+P 4750 3350
+F 0 "J7" H 4722 3328 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 4858 3440 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 4750 3350 50  0001 C CNN
+F 3 "~" H 4750 3350 50  0001 C CNN
+	1    4750 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 6147EBFC
+P 3675 3350
+F 0 "J2" H 3783 3439 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3783 3440 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 3675 3350 50  0001 C CNN
+F 3 "~" H 3675 3350 50  0001 C CNN
+	1    3675 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 6147FEEF
+P 4200 3650
+F 0 "SW3" H 4200 3843 50  0000 C CNN
+F 1 "SW_Push" H 4200 3844 50  0001 C CNN
+F 2 "BreakoutBoards:SPST_PB" H 4200 3850 50  0001 C CNN
+F 3 "~" H 4200 3850 50  0001 C CNN
+	1    4200 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J6
+U 1 1 6147FEF9
+P 4725 3650
+F 0 "J6" H 4697 3628 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 4833 3740 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 4725 3650 50  0001 C CNN
+F 3 "~" H 4725 3650 50  0001 C CNN
+	1    4725 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J3
+U 1 1 6147FF03
+P 3675 3650
+F 0 "J3" H 3783 3739 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3783 3740 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 3675 3650 50  0001 C CNN
+F 3 "~" H 3675 3650 50  0001 C CNN
+	1    3675 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 6147FF0D
+P 4200 3975
+F 0 "SW4" H 4200 4168 50  0000 C CNN
+F 1 "SW_Push" H 4200 4169 50  0001 C CNN
+F 2 "BreakoutBoards:SPST_PB" H 4200 4175 50  0001 C CNN
+F 3 "~" H 4200 4175 50  0001 C CNN
+	1    4200 3975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J5
+U 1 1 6147FF17
+P 4725 3975
+F 0 "J5" H 4697 3953 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 4833 4065 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 4725 3975 50  0001 C CNN
+F 3 "~" H 4725 3975 50  0001 C CNN
+	1    4725 3975
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J4
+U 1 1 6147FF21
+P 3675 3975
+F 0 "J4" H 3783 4064 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3783 4065 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 3675 3975 50  0001 C CNN
+F 3 "~" H 3675 3975 50  0001 C CNN
+	1    3675 3975
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3875 3050 4000 3050
+Wire Wire Line
+	3875 3350 4000 3350
+Wire Wire Line
+	3875 3650 4000 3650
+Wire Wire Line
+	3875 3975 4000 3975
+Wire Wire Line
+	4400 3975 4525 3975
+Wire Wire Line
+	4400 3650 4525 3650
+Wire Wire Line
+	4400 3350 4550 3350
+Wire Wire Line
+	4400 3050 4525 3050
+$EndSCHEMATC
