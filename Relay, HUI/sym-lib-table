@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri ${KIPRJMOD}/New_Library.lib)(options "")(descr ""))
+  (lib (name Relayp)(type Legacy)(uri ${KIPRJMOD}/Relayp.lib)(options "")(descr ""))
+)

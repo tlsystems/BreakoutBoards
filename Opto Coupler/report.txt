@@ -1,0 +1,7 @@
+Plot file "D:\Electronic Projects\Breakout Boards\Opto Coupler\Gerbers\Opto Coupler-F_Cu.gbr" created.
+Plot file "D:\Electronic Projects\Breakout Boards\Opto Coupler\Gerbers\Opto Coupler-B_Cu.gbr" created.
+Plot file "D:\Electronic Projects\Breakout Boards\Opto Coupler\Gerbers\Opto Coupler-F_SilkS.gbr" created.
+Plot file "D:\Electronic Projects\Breakout Boards\Opto Coupler\Gerbers\Opto Coupler-B_SilkS.gbr" created.
+Plot file "D:\Electronic Projects\Breakout Boards\Opto Coupler\Gerbers\Opto Coupler-F_Mask.gbr" created.
+Plot file "D:\Electronic Projects\Breakout Boards\Opto Coupler\Gerbers\Opto Coupler-B_Mask.gbr" created.
+Plot file "D:\Electronic Projects\Breakout Boards\Opto Coupler\Gerbers\Opto Coupler-Edge_Cuts.gbr" created.
