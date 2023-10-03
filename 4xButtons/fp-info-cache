@@ -1,4 +1,4 @@
-19242103220088236
+19245196256489834
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -423,6 +423,13 @@ BreakoutBoards
 Slide Switch Solder Tab
 
 
+0
+3
+3
+BreakoutBoards
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+solder jumper open
 0
 3
 3
